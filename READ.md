@@ -6,7 +6,16 @@
 # Azure Bootcamp Repository 📚
 
 Este repositório contém resumos de cursos e desafios de projeto focados no **Microsoft Azure** e **Computação em Nuvem**.
-Você pode [visualizar os certificados]([https://link-do-perfil.com](https://web.dio.me/certificates)) do usuário.
+Você pode [visualizar o perfil]([https://web.dio.me/certificates](https://www.dio.me/users/matheus_rodolpho16)). (Porifólio online em desemvolvimento).
+
+---
+
+## Atividades Totais
+- **17 Cursos**
+- **12 Desafios de Projeto**
+- **1 Desafio de Código**
+- **1 Live**
+- **Data de Conclusão:** 28/10/2024
 
 ---
 
@@ -21,11 +30,6 @@ Você pode [visualizar os certificados]([https://link-do-perfil.com](https://web
 - 📝 **Curso**: Introdução a Computação em Nuvem
 - 📍 Nível: Básico
 - ⏳ Duração: 2 horas
-- 📖 [Resumo](AZURE-SERVICES-CATEGORIES-AND-INTRO.md)
-
----
-
-## Versionamento e Open Source 🌐
 
 ### 📘 **[Versionamento de Código com Git e GitHub](#)**
 - 📝 **Curso**: Versionamento de Código com Git e GitHub
@@ -41,12 +45,19 @@ Você pode [visualizar os certificados]([https://link-do-perfil.com](https://web
 - 📝 **Desafio de Projeto**: Contribuindo em um Projeto Open Source no GitHub
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
+- 📖 [Resumo](OPEN_SOURCE_PROJECT.md)
+
+### 📘 **[Introdução Prática ao Azure AI e Azure OpenAI Models](#)**
+- 📝 **Mentoria (Live)**: Introdução Prática ao Azure AI e Azure OpenAI Models
+- 📍 Instrutor: Rogério Rodrigues
+- ⏳ Duração: 1 hora 30 minutos
+- 📖 [Assistir a Gravação](#)
 
 ---
 
 ## Conceitos Iniciais de Cloud com Azure 🌩️
 
-### 📘 **[Microsoft Azure Essentials - Localizando Serviços por Categoria](#)**
+### 📘 **[Microsoft Azure - Localizando Serviços por Categoria](#)**
 - 📝 **Desafio de Projeto**: Localizando Serviços por Categoria
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
@@ -57,6 +68,24 @@ Você pode [visualizar os certificados]([https://link-do-perfil.com](https://web
 - 📍 Nível: Básico
 - ⏳ Duração: 2 horas
 - 📖 [Resumo](CLOUD-COMPUTING-BENEFITS.md)
+
+### 📘 **[Criando Máquinas Virtuais na Azure](#)**
+- 📝 **Desafio de Projeto**: Criando Máquinas Virtuais na Azure
+- 📍 Nível: Básico
+- ⏳ Duração: 1 hora
+- 📖 [Resumo](#)
+
+### 📘 **[Tipos de Serviço de Nuvem](#)**
+- 📝 **Curso**: Tipos de Serviço de Nuvem
+- 📍 Nível: Básico
+- ⏳ Duração: 1 hora
+- 📖 [Resumo](#)
+
+### 📘 **[Configurando uma Instância de Banco de Dados na Azure](#)**
+- 📝 **Desafio de Projeto**: Configurando uma Instância de Banco de Dados na Azure
+- 📍 Nível: Básico
+- ⏳ Duração: 1 hora
+- 📖 [Resumo](#)
 
 ---
 
@@ -80,6 +109,48 @@ Você pode [visualizar os certificados]([https://link-do-perfil.com](https://web
 - ⏳ Duração: 1 hora
 - 📖 [Resumo](#)
 
+### 📘 **[Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure](#)**
+- 📝 **Desafio de Projeto**: Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
+- 📍 Nível: Básico
+- ⏳ Duração: 1 hora
+- 📖 [Resumo](#)
+
+### 📘 **[Armazenamento do Azure](#)**
+- 📝 **Curso**: Armazenamento do Azure
+- 📍 Nível: Básico
+- ⏳ Duração: 1 hora
+- 📖 [Resumo](#)
+
+### 📘 **[Dominando o Armazenamento na Azure](#)**
+- 📝 **Desafio de Projeto**: Dominando o Armazenamento na Azure
+- 📍 Nível: Básico
+- ⏳ Duração: 1 hora
+- 📖 [Resumo](#)
+
+### 📘 **[Identidade, Acesso e Segurança](#)**
+- 📝 **Curso**: Identidade, Acesso e Segurança
+- 📍 Nível: Básico
+- ⏳ Duração: 1 hora
+- 📖 [Resumo](#)
+
+### 📘 **[Entendendo sobre Segurança e Identidade na Azure](#)**
+- 📝 **Desafio de Projeto**: Entendendo sobre Segurança e Identidade na Azure
+- 📍 Nível: Básico
+- ⏳ Duração: 1 hora
+- 📖 [Resumo](#)
+
+### 📘 **[Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional](#)**
+- 📝 **Curso**: Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
+- 📍 Nível: Básico
+- ⏳ Duração: 1 hora
+- 📖 [Resumo](#)
+
+### 📘 **[Explorando Arquitetura e Serviços Azure com Lógica de Programação](#)**
+- 📝 **Desafio de Código**: Explorando Arquitetura e Serviços Azure com Lógica de Programação
+- 📍 Nível: Básico
+- ⏳ Duração: 1 hora
+- 📖 [Resumo](#)
+
 ---
 
 ## Gerenciamento e Governança na Azure ⚙️
@@ -96,22 +167,21 @@ Você pode [visualizar os certificados]([https://link-do-perfil.com](https://web
 - ⏳ Duração: 1 hora
 - 📖 [Resumo](#)
 
----
-
-## Monitoramento e Segurança 🔒
-
-### 📘 **[Ferramentas de Monitoramento Azure](#)**
-- 📝 **Curso**: Ferramentas de Monitoramento Azure
+### 📘 **[Primeiros Passos com Governança e Conformidade na Azure](#)**
+- 📝 **Curso**: Primeiros Passos com Governança e Conformidade na Azure
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
 - 📖 [Resumo](#)
 
-### 📘 **[Monitoramento Inteligente com o Azure](#)**
-- 📝 **Desafio de Projeto**: Monitoramento Inteligente com o Azure
+### 📘 **[Gerenciamento de Recursos Azure](#)**
+- 📝 **Desafio de Projeto**: Gerenciamento de Recursos Azure
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
 - 📖 [Resumo](#)
 
 ---
 
-Cada seção contém **cursos** e **desafios de projeto** com links para os resumos correspondentes. Continue explorando para dominar o **Azure** e expandir seus conhecimentos em **Computação em Nuvem**!
+## Contato 📬
+
+- 📧 **Email:** seu-email@example.com
+- 💼 **LinkedIn:** [Seu LinkedIn](#)
