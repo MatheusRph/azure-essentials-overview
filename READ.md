@@ -45,13 +45,11 @@ Você pode [visualizar o perfil]([https://web.dio.me/certificates](https://www.d
 - 📝 **Desafio de Projeto**: Contribuindo em um Projeto Open Source no GitHub
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](OPEN_SOURCE_PROJECT.md)
 
 ### 📘 **[Introdução Prática ao Azure AI e Azure OpenAI Models](#)**
 - 📝 **Mentoria (Live)**: Introdução Prática ao Azure AI e Azure OpenAI Models
 - 📍 Instrutor: Rogério Rodrigues
 - ⏳ Duração: 1 hora 30 minutos
-- 📖 [Assistir a Gravação](#)
 
 ---
 
