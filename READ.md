@@ -16,13 +16,12 @@ Você pode [visualizar os certificados]([https://link-do-perfil.com](https://web
 - 📝 **Curso**: Introdução ao Azure Essentials com a Microsoft
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
 
 ### 📘 **[Introdução a Computação em Nuvem](#)**
 - 📝 **Curso**: Introdução a Computação em Nuvem
 - 📍 Nível: Básico
 - ⏳ Duração: 2 horas
-- 📖 [Resumo](#)
+- 📖 [Resumo](AZURE-SERVICES-CATEGORIES-AND-INTRO.md)
 
 ---
 
@@ -32,19 +31,16 @@ Você pode [visualizar os certificados]([https://link-do-perfil.com](https://web
 - 📝 **Curso**: Versionamento de Código com Git e GitHub
 - 📍 Nível: Básico
 - ⏳ Duração: 2 horas
-- 📖 [Resumo](#)
 
 ### 📘 **[Desafios de Projetos: Crie Um Portfólio Vencedor](#)**
 - 📝 **Curso**: Desafios de Projetos: Crie Um Portfólio Vencedor
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
 
 ### 📘 **[Contribuindo em um Projeto Open Source no GitHub](#)**
 - 📝 **Desafio de Projeto**: Contribuindo em um Projeto Open Source no GitHub
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
 
 ---
 
@@ -54,13 +50,13 @@ Você pode [visualizar os certificados]([https://link-do-perfil.com](https://web
 - 📝 **Desafio de Projeto**: Localizando Serviços por Categoria
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
+- 📖 [Resumo](AZURE-SERVICES-CATEGORIES-AND-INTRO.md)
 
 ### 📘 **[Benefícios da Computação em Nuvem](#)**
 - 📝 **Curso**: Benefícios da Computação em Nuvem
 - 📍 Nível: Básico
 - ⏳ Duração: 2 horas
-- 📖 [Resumo](#)
+- 📖 [Resumo](CLOUD-COMPUTING-BENEFITS.md)
 
 ---
 
