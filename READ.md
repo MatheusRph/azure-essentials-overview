@@ -71,7 +71,7 @@ Você pode [visualizar o perfil]([https://web.dio.me/certificates](https://www.d
 - 📝 **Desafio de Projeto**: Criando Máquinas Virtuais na Azure
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
+- 📖 [Resumo](CREATE-VM.md)
 
 ### 📘 **[Tipos de Serviço de Nuvem](#)**
 - 📝 **Curso**: Tipos de Serviço de Nuvem
