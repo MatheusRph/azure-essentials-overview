@@ -77,13 +77,13 @@ Você pode [visualizar o perfil]([https://web.dio.me/certificates](https://www.d
 - 📝 **Curso**: Tipos de Serviço de Nuvem
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
+- 📖 [Resumo](CLOUD-SERVICE-MODELS.md)
 
 ### 📘 **[Configurando uma Instância de Banco de Dados na Azure](#)**
 - 📝 **Desafio de Projeto**: Configurando uma Instância de Banco de Dados na Azure
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
+- 📖 [Resumo](VM-OPTIONS-CONFIGURATION-AND-DB-SQL-CREATE.md)
 
 ---
 
@@ -93,13 +93,13 @@ Você pode [visualizar o perfil]([https://web.dio.me/certificates](https://www.d
 - 📝 **Curso**: Componentes de Arquitetura do Azure
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
+- 📖 [Resumo](AZURE-ARCHITECTURE.md)
 
 ### 📘 **[Construindo Arquiteturas no Azure](#)**
 - 📝 **Desafio de Projeto**: Construindo Arquiteturas no Azure
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
+- 📖 [Resumo](RESOURCE-GROUPS.md)
 
 ### 📘 **[Computação e Rede na Azure](#)**
 - 📝 **Curso**: Computação e Rede na Azure
