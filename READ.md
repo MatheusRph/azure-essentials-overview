@@ -117,13 +117,13 @@ Você pode [visualizar o perfil]([https://web.dio.me/certificates](https://www.d
 - 📝 **Curso**: Armazenamento do Azure
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
+- 📖 [Resumo](AZURE-STORAGE.MD)
 
 ### 📘 **[Dominando o Armazenamento na Azure](#)**
 - 📝 **Desafio de Projeto**: Dominando o Armazenamento na Azure
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
+- 📖 [Resumo](AZURE-LAB-STORAGE.md)
 
 ### 📘 **[Identidade, Acesso e Segurança](#)**
 - 📝 **Curso**: Identidade, Acesso e Segurança
