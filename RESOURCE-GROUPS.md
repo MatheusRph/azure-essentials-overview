@@ -1,73 +1,61 @@
-# Criando Máquinas Virtuais no Azure pelo Portal ☁️
+# Gerenciando Grupos de Recursos no Azure pelo Portal ☁️
 
-Este guia irá te mostrar como criar uma máquina virtual (VM) no Azure usando o portal. Siga os passos abaixo para configurar rapidamente sua nova VM.
+Neste guia, você vai aprender a criar e gerenciar grupos de recursos no Azure pelo portal. Um grupo de recursos é um contêiner para gerenciar e organizar os recursos no Azure, como máquinas virtuais, bancos de dados, redes e muito mais. Siga os passos abaixo para começar a estruturar sua arquitetura no Azure.
 
 ## Pré-requisitos ✅
 
 - Uma conta no Microsoft Azure. Se você ainda não tem uma, pode criar uma [aqui](https://azure.microsoft.com/free/).
 - Acesso ao [Portal do Azure](https://portal.azure.com).
 
-## Passo a Passo para Criar uma Máquina Virtual 🖥️
+## Passo a Passo para Criar um Grupo de Recursos 🗂️
 
 ### 1. Acesse o Portal do Azure 🌐
 
-- Abra o seu navegador e acesse [portal.azure.com](https://portal.azure.com).
+- Abra o navegador e acesse o [Portal do Azure](https://portal.azure.com).
 - Faça login com suas credenciais do Azure.
 
-### 2. Criar uma Máquina Virtual ➕
+### 2. Criar um Grupo de Recursos ➕
 
-- No painel à esquerda, clique em **"Máquinas Virtuais"**.
-- Clique em **"Adicionar"** e, em seguida, em **"Criar uma máquina virtual"**.
+- No painel esquerdo, clique em **"Grupos de Recursos"**.
+- Selecione **"Adicionar"** para começar a criar um novo grupo de recursos.
 
-### 3. Configure as Configurações Básicas ⚙️
+### 3. Configurar as Informações Básicas ⚙️
 
-- **Assinatura:** Selecione a assinatura do Azure que deseja usar.
-- **Grupo de Recursos:** Crie um novo grupo ou selecione um existente.
-- **Nome da VM:** Dê um nome à sua máquina virtual.
-- **Região:** Escolha a região onde a VM será criada.
-- **Imagem:** Selecione a imagem do sistema operacional que deseja usar (por exemplo, Windows Server ou Ubuntu).
-- **Tamanho:** Escolha o tamanho da VM de acordo com suas necessidades. Você pode ver as opções de desempenho e custo.
+- **Assinatura:** Escolha a assinatura do Azure que vai usar para o grupo de recursos.
+- **Nome do Grupo de Recursos:** Defina um nome único para identificar o grupo.
+- **Região:** Escolha a região onde o grupo de recursos será armazenado. Os recursos dentro dele podem estar em várias regiões, mas o grupo é atrelado a uma única.
 
-### 4. Configure as Configurações de Rede 🌐
+### 4. Configurar Tags para Organização 🏷️
 
-- **Rede Virtual:** Selecione uma rede virtual existente ou crie uma nova.
-- **Sub-rede:** Se necessário, escolha uma sub-rede.
-- **IP Público:** Se desejar acesso externo, marque a opção de criar um IP público.
+- **Tags:** Adicione tags para ajudar na organização e identificação dos recursos. Por exemplo, você pode usar tags como "Projeto: Desenvolvimento" ou "Ambiente: Produção" para organizar melhor seus recursos.
 
-### 5. Configurações de Segurança 🔒
+### 5. Revisar + Criar 📄
 
-- **Nome de Usuário:** Crie um nome de usuário para acessar a VM.
-- **Senha:** Defina uma senha forte. Você também pode optar por autenticação via chave SSH para imagens Linux.
-- **Portas de Entrada:** Escolha as portas que deseja abrir (por exemplo, RDP para Windows ou SSH para Linux).
+- Revise as configurações e clique em **"Criar"** para provisionar o grupo de recursos.
 
-### 6. Revisar + Criar 📄
+### 6. Adicionar e Gerenciar Recursos ao Grupo 🧩
 
-- Revise todas as configurações que você fez.
-- Clique em **"Criar"** para iniciar o provisionamento da sua máquina virtual.
+- Após criar o grupo de recursos, selecione-o na lista.
+- Clique em **"Adicionar"** para inserir novos recursos, como VMs, bancos de dados, redes e mais.
+- **Organize** e gerencie permissões, políticas e configurações para todos os recursos do grupo de uma só vez, facilitando a administração da infraestrutura.
 
-### 7. Acesse sua Máquina Virtual 🔑
+## Explorando a Arquitetura Global e o Data Center do Azure 🌐
 
-- Após a criação, vá para o painel do Azure e selecione **"Máquinas Virtuais"**.
-- Clique na sua nova VM.
-- Para se conectar, use o cliente RDP (para Windows) ou SSH (para Linux).
+O Azure possui uma infraestrutura global robusta e distribuída. Entender um pouco sobre como ela funciona ajuda a planejar e gerenciar seus recursos de forma eficiente.
 
-## Explorando o Data Center do Azure e a Infraestrutura Global 🌎
-
-Quer entender melhor como funcionam os data centers do Azure? Explore a infraestrutura por meio destes recursos:
-
-- **Globo Interativo do Azure**: Visualize a presença global do Azure e conheça suas regiões de operação. Acesse [aqui](https://azure.microsoft.com/regions/).
-- **Data Center por Dentro**: Descubra como é o funcionamento interno de um data center da Azure e a tecnologia que suporta seus recursos. Veja mais [aqui](https://azure.microsoft.com/en-us/global-infrastructure/datacenters/).
+- **Mapa Interativo do Azure**: Conheça as diferentes regiões onde o Azure opera e visualize a infraestrutura global. Acesse [aqui](https://azure.microsoft.com/regions/).
+- **Arquitetura dos Data Centers**: Saiba mais sobre o funcionamento interno dos data centers que suportam a infraestrutura do Azure. Veja mais detalhes [aqui](https://azure.microsoft.com/en-us/global-infrastructure/datacenters/).
 
 ## Conclusão 🎉
 
-Parabéns! Você criou sua máquina virtual no Azure. Agora você pode usar essa VM para várias tarefas, como desenvolvimento, teste e hospedagem de aplicativos.
+Agora você aprendeu a criar e gerenciar grupos de recursos no Azure! Com isso, você tem uma maneira eficiente de organizar, monitorar e controlar o acesso aos recursos na sua arquitetura Azure.
 
 ## Recursos Adicionais 📚
 
-- [Documentação Oficial do Azure sobre Máquinas Virtuais](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal)
-- [Tutorial de Conexão Remota](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/connect-remote-over-rdp)
+- [Documentação Oficial sobre Grupos de Recursos](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/overview)
+- [Guia de Organização e Melhores Práticas com Tags](https://learn.microsoft.com/pt-br/azure/azure-resource-manager/management/tag-resources)
 - [Preços do Azure](https://azure.microsoft.com/pricing/)
 
 ---
 
-Se tiver dúvidas ou precisar de ajuda, consulte a comunidade do Azure ou abra um chamado de suporte! 🤔💬
+Caso tenha dúvidas ou queira mais dicas sobre como gerenciar recursos no Azure, acesse a comunidade Azure ou entre em contato com o suporte!
