@@ -105,13 +105,13 @@ Você pode [visualizar o perfil]([https://web.dio.me/certificates](https://www.d
 - 📝 **Curso**: Computação e Rede na Azure
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
+- 📖 [Resumo](CLOUD-NETWORKING-COMPUTING.md)
 
 ### 📘 **[Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure](#)**
 - 📝 **Desafio de Projeto**: Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
+- 📖 [Resumo](LAB-NETWORKING-COMPUTING.md)
 
 ### 📘 **[Armazenamento do Azure](#)**
 - 📝 **Curso**: Armazenamento do Azure
