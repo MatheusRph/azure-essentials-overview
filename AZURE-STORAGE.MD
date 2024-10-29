@@ -2,21 +2,30 @@
 
 Este documento fornece uma visão detalhada sobre os serviços de armazenamento do Azure, abordando elementos fundamentais como tipos de armazenamento, funcionalidades, serviços relacionados e opções de migração.
 
-## 1. Azure Blob Storage
+## Contas de Armazenamento no Azure
+
+Uma **conta de armazenamento** no Azure é a base para todos os serviços de armazenamento e fornece um namespace único para os dados que você armazena. Cada conta de armazenamento pode conter diferentes tipos de serviços, como Blob, File, Queue e Table, e permite que você gerencie e acesse os dados de forma eficaz.
+
+### Tipos de Contas de Armazenamento
+
+- **General Purpose v2**: Suporta todos os serviços de armazenamento, incluindo Blob, File, Queue e Table.
+- **Blob Storage**: Especializada em armazenar blobs (grandes quantidades de dados não estruturados).
+- **File Storage**: Focada em armazenamento de arquivos que podem ser acessados via SMB.
+
+### Funcionalidades
+
+- **Segurança**: Integração com Azure Active Directory e controle de acesso baseado em funções (RBAC).
+- **Redundância**: Oferece opções para proteger seus dados contra falhas, como redundância geográfica e local.
+
+## Azure Blob Storage
 
 O Azure Blob Storage é ideal para armazenar grandes quantidades de dados não estruturados, como imagens, vídeos, backups e logs.
 
 ### Tipos de Blob
 
-- **Blob de Bloco**: 
-  - Armazena dados de arquivos grandes (até 4,75 TB).
-  - Permite uploads em partes.
-
-- **Blob de Página**: 
-  - Ideal para discos de máquinas virtuais.
-
-- **Blob de Anexo**: 
-  - Armazena grandes arquivos de dados acessíveis via URLs.
+- **Blob de Bloco**: Armazena dados de arquivos grandes (até 4,75 TB) e permite uploads em partes.
+- **Blob de Página**: Ideal para discos de máquinas virtuais.
+- **Blob de Anexo**: Armazena grandes arquivos de dados acessíveis via URLs.
 
 ### Funcionalidades
 
@@ -28,7 +37,7 @@ O Azure Blob Storage é ideal para armazenar grandes quantidades de dados não e
 - **Azure Data Lake Storage**: Uma versão aprimorada do Blob Storage focada em análise de big data.
 - **Azure Media Services**: Para streaming e processamento de mídia.
 
-## 2. Azure Disk Storage
+## Azure Disk Storage
 
 O Azure Disk Storage fornece discos para máquinas virtuais e aplicações que exigem armazenamento persistente.
 
@@ -47,7 +56,7 @@ O Azure Disk Storage fornece discos para máquinas virtuais e aplicações que e
 
 - **Azure Ultra Disk Storage**: Oferece desempenho e IOPS extremamente altos, ideal para cargas de trabalho intensivas.
 
-## 3. Azure File Storage
+## Azure File Storage
 
 O Azure File Storage oferece compartilhamento de arquivos acessíveis via SMB, ideal para migrar aplicativos que dependem de sistemas de arquivos.
 
@@ -60,7 +69,7 @@ O Azure File Storage oferece compartilhamento de arquivos acessíveis via SMB, i
 
 - **Azure NetApp Files**: Serviço de armazenamento de arquivos em nuvem para alta performance e baixa latência.
 
-## 4. Azure Queue Storage
+## Azure Queue Storage
 
 O Azure Queue Storage é um serviço de mensagens para comunicação assíncrona entre componentes de uma aplicação.
 
@@ -73,7 +82,7 @@ O Azure Queue Storage é um serviço de mensagens para comunicação assíncrona
 
 - **Azure Service Bus**: Uma solução de mensageria mais avançada que suporta filas e tópicos para comunicação entre serviços.
 
-## 5. Azure Table Storage
+## Azure Table Storage
 
 O Azure Table Storage fornece armazenamento de dados não relacionais em uma estrutura de tabela.
 
@@ -86,7 +95,7 @@ O Azure Table Storage fornece armazenamento de dados não relacionais em uma est
 
 - **Azure Cosmos DB**: Um banco de dados multimodal que oferece suporte a tabelas, documentos e grafos, com baixa latência e alta disponibilidade.
 
-## 6. Azure Data Lake Storage
+## Azure Data Lake Storage
 
 O Azure Data Lake Storage é projetado para análises de big data, permitindo o armazenamento e análise de grandes volumes de dados.
 
@@ -99,7 +108,7 @@ O Azure Data Lake Storage é projetado para análises de big data, permitindo o 
 
 - **Azure Synapse Analytics**: Análise de dados em larga escala, integrando armazenamento e processamento.
 
-## 7. Azure Archive Storage
+## Azure Archive Storage
 
 O Azure Archive Storage é uma solução de baixo custo para dados acessados raramente.
 
@@ -112,29 +121,29 @@ O Azure Archive Storage é uma solução de baixo custo para dados acessados rar
 
 - **Azure Backup**: Serviço que oferece backup e recuperação de dados armazenados em diferentes serviços do Azure.
 
-## 8. Azure Data Box
+## Azure Data Box
 
 O **Azure Data Box** é uma solução para transferir grandes volumes de dados para o Azure quando a transferência pela rede não é viável. Existem três variantes principais:
 
-### 8.1 Azure Data Box
+### Azure Data Box
 
 - **Descrição**: Dispositivo físico que é enviado para você. Ideal para migrações de grandes volumes de dados.
 - **Capacidade**: Até 80 TB de dados.
 - **Limitações**: Tempo de entrega pode variar; você deve ter um plano para transferir os dados de volta ao Azure.
 
-### 8.2 Azure Data Box Disk
+### Azure Data Box Disk
 
 - **Descrição**: Um dispositivo menor, semelhante a um disco rígido, que pode ser utilizado para transferências menores de dados.
 - **Capacidade**: Até 8 TB por dispositivo, múltiplos dispositivos podem ser utilizados.
 - **Limitações**: Ideal para transferências menores; não substitui o Data Box para migrações em larga escala.
 
-### 8.3 Azure Data Box Gateway
+### Azure Data Box Gateway
 
 - **Descrição**: Solução de software que permite transferir dados de forma contínua e em tempo real para o Azure.
 - **Capacidade**: Funciona com volumes grandes e pode ser integrado com sistemas locais.
 - **Limitações**: Requer configuração e gerenciamento contínuo; pode ter custos adicionais.
 
-## 9. Migração para o Azure
+## Migração para o Azure
 
 O Azure oferece várias ferramentas e serviços para facilitar a migração de dados e aplicativos para a nuvem. Aqui estão algumas das principais opções:
 
