@@ -129,7 +129,7 @@ Você pode [visualizar o perfil]([https://web.dio.me/certificates](https://www.d
 - 📝 **Curso**: Identidade, Acesso e Segurança
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
+- 📖 [Resumo](IDENTIDADE-ACESSSO-SEGURANCA-AZURE.md)
 
 ### 📘 **[Entendendo sobre Segurança e Identidade na Azure](#)**
 - 📝 **Desafio de Projeto**: Entendendo sobre Segurança e Identidade na Azure
