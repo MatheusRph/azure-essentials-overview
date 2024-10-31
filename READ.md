@@ -135,19 +135,17 @@ Você pode [visualizar o perfil]([https://web.dio.me/certificates](https://www.d
 - 📝 **Desafio de Projeto**: Entendendo sobre Segurança e Identidade na Azure
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
+- 📖 [Resumo](LAB-IDENTIDADE-ACESSO-SEGURANCA-AZURE.md)
 
 ### 📘 **[Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional](#)**
 - 📝 **Curso**: Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
 
 ### 📘 **[Explorando Arquitetura e Serviços Azure com Lógica de Programação](#)**
 - 📝 **Desafio de Código**: Explorando Arquitetura e Serviços Azure com Lógica de Programação
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
 
 ---
 
@@ -157,25 +155,25 @@ Você pode [visualizar o perfil]([https://web.dio.me/certificates](https://www.d
 - 📝 **Curso**: Gerenciamento de Custos na Azure
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
+- 📖 [Resumo](GERENCIAR-CUSTOS-AZURE.md)
 
 ### 📘 **[Otimizando Custos no Azure](#)**
 - 📝 **Desafio de Projeto**: Otimizando Custos no Azure
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
+- 📖 [Resumo](LAB-GERENCIAR-CUSTO-AZURE.md)
 
 ### 📘 **[Primeiros Passos com Governança e Conformidade na Azure](#)**
 - 📝 **Curso**: Primeiros Passos com Governança e Conformidade na Azure
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
+- 📖 [Resumo](GERENCIAMENTO-GOVERNANCA-CONFORMIDADE-AZURE.md)
 
 ### 📘 **[Gerenciamento de Recursos Azure](#)**
 - 📝 **Desafio de Projeto**: Gerenciamento de Recursos Azure
 - 📍 Nível: Básico
 - ⏳ Duração: 1 hora
-- 📖 [Resumo](#)
+- 📖 [Resumo](LAB-GERENCIAMENTO-GOVERNANCIA-CONFORMIDADE.md)
 
 ---
 
